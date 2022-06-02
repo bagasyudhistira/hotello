@@ -1,0 +1,53 @@
+{
+	"short_name": "hotello",
+	"name": "hotello",
+	"splash_pages": null,
+	"start_url": "/",
+	"Scope": "/",
+	"display": "standalone",
+	"theme_color": "#0f61a0",
+	"background_color": "#e6e6e6",
+	"orientation": "any",
+	"icons": [
+		{
+			"src": "images/icons/hotello-icon.png",
+			"sizes": "72x72",
+			"type": "image/png"
+		},
+		{
+			"src": "images/icons/hotello-icon.png",
+			"sizes": "96x96",
+			"type": "image/png"
+		},
+		{
+			"src": "images/icons/hotello-icon.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "images/icons/hotello-icon.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		},
+		{
+			"src": "images/icons/hotello-icon.png",
+			"sizes": "152x152",
+			"type": "image/png"
+		},
+		{
+			"src": "images/icons/hotello-icon.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "images/icons/hotello-icon.png",
+			"sizes": "384x384",
+			"type": "image/png"
+		},
+		{
+			"src": "images/icons/hotello-icon.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
